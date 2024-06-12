@@ -52,4 +52,4 @@ SLIIT Year 2 Semester 2 ITP Project
 
       npm install
 
-  5. Run the Frontend using **npm start** 
+ 2. Run the Frontend using **npm start** 
